@@ -1,0 +1,13 @@
+/Users/leslie.yi/Projects/StringBuilder/StringBuilder/bin/Debug/netcoreapp3.1/StringBuilder.deps.json
+/Users/leslie.yi/Projects/StringBuilder/StringBuilder/bin/Debug/netcoreapp3.1/StringBuilder.runtimeconfig.json
+/Users/leslie.yi/Projects/StringBuilder/StringBuilder/bin/Debug/netcoreapp3.1/StringBuilder.runtimeconfig.dev.json
+/Users/leslie.yi/Projects/StringBuilder/StringBuilder/bin/Debug/netcoreapp3.1/StringBuilder.dll
+/Users/leslie.yi/Projects/StringBuilder/StringBuilder/bin/Debug/netcoreapp3.1/StringBuilder.pdb
+/Users/leslie.yi/Projects/StringBuilder/StringBuilder/obj/Debug/netcoreapp3.1/StringBuilder.csproj.AssemblyReference.cache
+/Users/leslie.yi/Projects/StringBuilder/StringBuilder/obj/Debug/netcoreapp3.1/StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leslie.yi/Projects/StringBuilder/StringBuilder/obj/Debug/netcoreapp3.1/StringBuilder.AssemblyInfoInputs.cache
+/Users/leslie.yi/Projects/StringBuilder/StringBuilder/obj/Debug/netcoreapp3.1/StringBuilder.AssemblyInfo.cs
+/Users/leslie.yi/Projects/StringBuilder/StringBuilder/obj/Debug/netcoreapp3.1/StringBuilder.csproj.CoreCompileInputs.cache
+/Users/leslie.yi/Projects/StringBuilder/StringBuilder/obj/Debug/netcoreapp3.1/StringBuilder.dll
+/Users/leslie.yi/Projects/StringBuilder/StringBuilder/obj/Debug/netcoreapp3.1/StringBuilder.pdb
+/Users/leslie.yi/Projects/StringBuilder/StringBuilder/obj/Debug/netcoreapp3.1/StringBuilder.genruntimeconfig.cache
